@@ -2,7 +2,7 @@
 // Arquivo de inclusão gerado pelo Microsoft Visual C++.
 // Usado por AimNet.rc
 //
-#define IDR_FACEDETECT                        101
+#define IDR_PERSONDETECTOR                        101
 
 // Next default values for new objects
 // 

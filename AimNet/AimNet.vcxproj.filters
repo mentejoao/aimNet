@@ -30,6 +30,6 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\models\face_detection_yunet_2023mar.onnx" />
+    <None Include="..\models\person_detection_mediapipe_2023mar.onnx" />
   </ItemGroup>
 </Project>
