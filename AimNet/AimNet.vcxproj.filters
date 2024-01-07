@@ -31,5 +31,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\models\person_detection_mediapipe_2023mar.onnx" />
+    <None Include="..\models\pose_estimation_mediapipe_2023mar.onnx" />
   </ItemGroup>
 </Project>

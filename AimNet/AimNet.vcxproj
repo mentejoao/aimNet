@@ -147,6 +147,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\models\person_detection_mediapipe_2023mar.onnx" />
+    <None Include="..\models\pose_estimation_mediapipe_2023mar.onnx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
